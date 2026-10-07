@@ -1,2 +1,13 @@
 # FindIn
-Aplicação desktop em Python com interface gráfica (Tkinter) para busca de texto dentro de arquivos TXT, DOCX, XLSX e PDF.
+
+## Descrição
+
+Adicione aqui uma descrição do projeto.
+
+## Instalação
+
+Adicione aqui as instruções de instalação e configuração.
+
+## Uso
+
+Adicione aqui as instruções de utilização.
